@@ -1,5 +1,7 @@
 # AWS Root User Password Reset Automation Module
 
+** This module is not working yet **
+
 A Terraform module that **actually sets/assigns/recovers passwords** for AWS root users using browser automation and email integration.
 
 ## What This Module Does
