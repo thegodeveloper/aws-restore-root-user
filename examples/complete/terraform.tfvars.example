@@ -1,0 +1,4 @@
+parent_ou_id       = "r-xxxx"  # Replace with your AWS Organizations root ID or parent OU ID
+email_username     = "your-email-username-here" # Replace with your email username
+email_address      = "your-email-address-here" # Replace with your email address
+email_app_password = "your-app-password-here"  # Replace with your email app password
